@@ -1,1 +1,1 @@
-project on android
+project on ios
